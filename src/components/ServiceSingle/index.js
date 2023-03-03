@@ -64,15 +64,8 @@ const ServiceSingle = ({ maxWidth, open, onClose, title, dImg, sImg1, sImg2, }) 
                                             <div className="tp-service-single-title">
                                                 <h3>{title}</h3>
                                             </div>
-                                            < p > Lorem ipsum dolor sit amet, consectetur adipiscing elit.Metus dis posuere amet
-                                            tincidunt commodo, velit.Ipsum, hac nibh fermentum nisi, platea condimentum cursus
-                                            velit dui.Massa volutpat odio facilisis purus sit elementum.Non, sed velit dictum
-                                            quam.Id risus pharetra est, at rhoncus, nec ullamcorper tincidunt.Id aliquet duis
-                                            sollicitudin diam, elit sit.Et nisi in libero facilisis sed est.Elit curabitur
-                                            amet risus bibendum.Posuere et eget orci, tempor enim. < /p>
-                                            <p>Hac nibh fermentum nisi, platea condimentum cursus velit dui. Massa volutpat odio
-                                                facilisis purus sit elementum. Non, sed velit dictum quam. Id risus pharetra est, at
-                                                rhoncus, nec ullamcorper tincidunt. Id aliquet duis sollicitudin diam, elit sit.</p>
+                                            <p> Make your mark on the web with Web Design! Our professional web designers will help you create a website that stands out from the crowd. With our coding expertise and custom layouts, you will be able to launch a stunning website for your business, portfolio, or blog in no time. From meeting with clients to running tests and crafting perfect designs, we have got you covered. Get started today with Web Design!</p>
+                                            <p>Transform your online presence with Web Design - the only web designer you will ever need! Our cutting-edge tools and services make website creation easy, so you can focus on making your business shine. We have got all the features you need to design an effective website, in no time at all. Get started today and join thousands of satisfied customers who have experienced the power of Web Design!</p>
                                             <div className="row mt-4">
                                                 <div className="col-md-6 col-sm-6 col-12">
                                                     <div className="tp-p-details-img">

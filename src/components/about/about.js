@@ -23,8 +23,8 @@ const About = (props) => {
                             <div className="tf-about-text">
                                 <small>about Me</small>
                                 <h2>Welcome to My Portfolio</h2>
-                                <h5>I'm a entry-level full stack engineer with a passion for creating innovative solutions.</h5>
-                                <p>Software engineer with a passion for creating and innovating. Coding the future one line of code at a time! Working to bring innovative ideas to life as an entry-level full stack engineer. Ready to work with inspiring minds and grow my skill set. Ready to take ideas from concept to creation! Let 's work together and build something amazing!</p>
+                                <h5> I am entry-level full-stack engineer </h5>
+                                <p>I am passionate about creating innovative solutions and bringing new ideas to life through software engineering, and I strive to code the future one line at a time. I am eager to work alongside inspiring minds while continuing to grow my skill set. Are you ready to go from concept to creation? Let’s work together and create something extraordinary!</p>
 
                                 <div className="tf-funfact">
                                     <div className="tf-funfact-item">
@@ -33,7 +33,7 @@ const About = (props) => {
                                     </div>
                                     <div className="tf-funfact-item">
                                         <h3><span>11</span>+</h3>
-                                        <p>Courses completed</p>
+                                        <p>Certifications</p>
                                     </div>
                                     <div className="tf-funfact-item">
                                         <h3><span>3</span>+</h3>
